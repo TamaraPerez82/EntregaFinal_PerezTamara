@@ -8,7 +8,7 @@ let cargar = prompt ("Ingrese el plato del día o presione Cancelar")
 while(cargar !== null)
 {
    misplatos.push(cargar)
-    cargar = prompt ("Hay otro plato del día para cargar? ")
+    cargar = prompt ("Hay otro plato del día que desees cargar? ")
 }
 console.table(misplatos)
 
