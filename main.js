@@ -4,7 +4,7 @@ for(let i=0; i<15; i++){
 }
 
 let misplatos =[]
-let cargar = prompt ("Ingrese el plato del día")
+let cargar = prompt ("Ingrese el plato del día o presione Cancelar")
 while(cargar !== null)
 {
    misplatos.push(cargar)
@@ -18,7 +18,7 @@ function DatosUser(){
 }
 
 function HacerPedido(){
-    let confirma = confirm ("Quieres ingresar un pedido: ?")
+    let confirma = confirm ("Quieres ingresar un pedido? O presiona Cancelar")
 
     while(confirma){
         PasarPedido()
