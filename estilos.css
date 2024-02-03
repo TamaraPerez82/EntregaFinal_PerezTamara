@@ -61,13 +61,14 @@ div.pedido-content p{
 }
 
 .banner p{
-    color: orangered;
+    color: orange;
     font-size: 20px;
     margin: 20px;
+    font-weight: bold;
 }
 
 .comprar{
-    color: orange;
+    color: rgb(180, 123, 17);
     background-color:beige;
     border-color: orange;
     border-radius: 4px;
