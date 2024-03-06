@@ -1,0 +1,55 @@
+
+
+[
+    {
+        "id": 1,
+        "nombre": "Tacos",
+        "precio": 250,
+        "cantidad": 1,
+        "img": "./img/tacos.jpg"
+        
+    },
+    {
+        "id": 2,
+        "nombre": "Burritos",
+        "precio": 150, 
+        "cantidad": 1,
+        "img": "./img/burritos.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Guacamole",
+        "precio": 250, 
+        "cantidad": 1,
+        "img": "./img/guacamole.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Nachos",
+        "precio": 200, 
+        "cantidad": 1,
+        "img": "./img/nachos.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Quesadillas",
+        "precio": 80, 
+        "cantidad": 1,
+        "img": "./img/quesadilla.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Agua Mineral",
+        "precio": 50, 
+        "cantidad": 1,
+        "img": "./img/agua.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Limonada",
+        "precio": 150, 
+        "cantidad": 1,
+        "img": "./img/limonada.jpg"
+    }
+    
+]
